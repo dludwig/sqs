@@ -1,10 +1,10 @@
 {
   "name": "sqs",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "dependencies": {
-    "request": "~2.75.0"
+    "request": "^2.88.0"
   },
-  "repository": "git://github.com/mafintosh/sqs",
+  "repository": "git://github.com/dludwig/sqs",
   "description": "A message queue using Amazon Simple Queue Service.",
   "keywords": [
     "sqs",
